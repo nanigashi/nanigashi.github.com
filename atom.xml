@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.beta-desu.info/"/>
-  <updated>2021-01-05T06:58:49.254Z</updated>
+  <updated>2021-01-06T09:56:48.477Z</updated>
   <id>http://blog.beta-desu.info/</id>
   
   <author>
@@ -15,6 +15,45 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ハヤブサと言えば釣具ではなくの話。</title>
+    <link href="http://blog.beta-desu.info/2021/01/06/sup-fishing/"/>
+    <id>http://blog.beta-desu.info/2021/01/06/sup-fishing/</id>
+    <published>2021-01-06T00:42:21.000Z</published>
+    <updated>2021-01-06T09:56:48.477Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;大掃除で釣具を整理しました。どうも何某です。こんばんは。&lt;/p&gt;
+&lt;p&gt;なぜか40号のオモリが30個くらい出てきました。&lt;br&gt;整理していないと無駄な買い物が多くなります。&lt;/p&gt;
+&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="釣り" scheme="http://blog.beta-desu.info/categories/%E9%87%A3%E3%82%8A/"/>
+    
+    
+      <category term="釣行記" scheme="http://blog.beta-desu.info/tags/%E9%87%A3%E8%A1%8C%E8%A8%98/"/>
+    
+      <category term="SUP" scheme="http://blog.beta-desu.info/tags/SUP/"/>
+    
+      <category term="中潮" scheme="http://blog.beta-desu.info/tags/%E4%B8%AD%E6%BD%AE/"/>
+    
+      <category term="ジギング" scheme="http://blog.beta-desu.info/tags/%E3%82%B8%E3%82%AE%E3%83%B3%E3%82%B0/"/>
+    
+      <category term="カワハギ" scheme="http://blog.beta-desu.info/tags/%E3%82%AB%E3%83%AF%E3%83%8F%E3%82%AE/"/>
+    
+      <category term="イナダ" scheme="http://blog.beta-desu.info/tags/%E3%82%A4%E3%83%8A%E3%83%80/"/>
+    
+  </entry>
   
   <entry>
     <title>安奈、イナダが入れ食いだったのかいの話。</title>
@@ -182,45 +221,6 @@
       <category term="アマラバ" scheme="http://blog.beta-desu.info/tags/%E3%82%A2%E3%83%9E%E3%83%A9%E3%83%90/"/>
     
       <category term="コアラ" scheme="http://blog.beta-desu.info/tags/%E3%82%B3%E3%82%A2%E3%83%A9/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>水温下がったからか渋い話。</title>
-    <link href="http://blog.beta-desu.info/2020/11/06/kayak-fishing/"/>
-    <id>http://blog.beta-desu.info/2020/11/06/kayak-fishing/</id>
-    <published>2020-11-06T00:10:14.000Z</published>
-    <updated>2020-11-26T03:22:30.153Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;近々ひさぶりに例の釣船に乗ります。どうも何某です。こんばんは。&lt;/p&gt;
-&lt;p&gt;リールに1200mもラインを巻くのが面倒です。&lt;/p&gt;
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="釣り" scheme="http://blog.beta-desu.info/categories/%E9%87%A3%E3%82%8A/"/>
-    
-    
-      <category term="釣行記" scheme="http://blog.beta-desu.info/tags/%E9%87%A3%E8%A1%8C%E8%A8%98/"/>
-    
-      <category term="カヤック" scheme="http://blog.beta-desu.info/tags/%E3%82%AB%E3%83%A4%E3%83%83%E3%82%AF/"/>
-    
-      <category term="中潮" scheme="http://blog.beta-desu.info/tags/%E4%B8%AD%E6%BD%AE/"/>
-    
-      <category term="ジギング" scheme="http://blog.beta-desu.info/tags/%E3%82%B8%E3%82%AE%E3%83%B3%E3%82%B0/"/>
-    
-      <category term="中深海" scheme="http://blog.beta-desu.info/tags/%E4%B8%AD%E6%B7%B1%E6%B5%B7/"/>
-    
-      <category term="イナダ" scheme="http://blog.beta-desu.info/tags/%E3%82%A4%E3%83%8A%E3%83%80/"/>
     
   </entry>
   
