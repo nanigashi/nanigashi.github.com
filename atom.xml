@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.beta-desu.info/"/>
-  <updated>2021-07-14T02:55:24.380Z</updated>
+  <updated>2021-07-15T06:19:34.177Z</updated>
   <id>http://blog.beta-desu.info/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>あの夏、いちばん騒がしい川の話。</title>
+    <link href="http://blog.beta-desu.info/2021/07/14/summer/"/>
+    <id>http://blog.beta-desu.info/2021/07/14/summer/</id>
+    <published>2021-07-14T17:59:03.000Z</published>
+    <updated>2021-07-15T06:19:34.177Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;マジで歳とると時間が進むのが早い。どうも何某です。こんにちは。&lt;/p&gt;
+&lt;p&gt;朝起きて、「あれやらないとなー。」って独り言を言い終わるかそこらで、もう15時ですよ。&lt;br&gt;息する暇もない。&lt;/p&gt;
+&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; 
+        
+      
+    
+    </summary>
+    
+    
+      <category term="エッセイ" scheme="http://blog.beta-desu.info/categories/%E3%82%A8%E3%83%83%E3%82%BB%E3%82%A4/"/>
+    
+    
+      <category term="魚突き" scheme="http://blog.beta-desu.info/tags/%E9%AD%9A%E7%AA%81%E3%81%8D/"/>
+    
+      <category term="サクラマス" scheme="http://blog.beta-desu.info/tags/%E3%82%B5%E3%82%AF%E3%83%A9%E3%83%9E%E3%82%B9/"/>
+    
+  </entry>
   
   <entry>
     <title>Ça va?Ça va?ってどういう意味の話。</title>
@@ -163,33 +194,6 @@
       <category term="魚突き" scheme="http://blog.beta-desu.info/tags/%E9%AD%9A%E7%AA%81%E3%81%8D/"/>
     
       <category term="サクラマス" scheme="http://blog.beta-desu.info/tags/%E3%82%B5%E3%82%AF%E3%83%A9%E3%83%9E%E3%82%B9/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>書け書けと言われるのでの話。</title>
-    <link href="http://blog.beta-desu.info/2021/07/01/zakki/"/>
-    <id>http://blog.beta-desu.info/2021/07/01/zakki/</id>
-    <published>2021-07-01T16:23:16.000Z</published>
-    <updated>2021-07-02T02:51:49.671Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;ひさぶりです。どうも何某です。こんにちは。&lt;/p&gt;
-&lt;p&gt;「最近更新ないですね。釣りに行ってなんですか?」&lt;/p&gt;
-&lt;p&gt;なんて言われたりもします。気にかけていただいて、ありがたいことです。&lt;br&gt;「嘘でもいいからなんか書け。」なんて言ってくる方もいたりして、純粋に読み物と
-        
-      
-    
-    </summary>
-    
-    
-      <category term="雑記" scheme="http://blog.beta-desu.info/categories/%E9%9B%91%E8%A8%98/"/>
-    
     
   </entry>
   
